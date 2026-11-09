@@ -1,48 +1,86 @@
-# Hi, I'm Ilshat Khismatullin
+<!--
+  GitHub profile of Ilshat Khismatullin.
+  Designed as a personal developer landing page.
+  Project statuses are intentionally factual.
+-->
 
-**Python Backend Developer** · Saint Petersburg, Russia · ITMO University
+<p align="center">
+  <img src="./assets/hero.svg" alt="Ilshat Khismatullin — Python Backend Developer" width="100%" />
+</p>
 
-I build backend services with Python, focusing on asynchronous workflows, data persistence, business logic, and maintainable code. My experience includes commercial Telegram applications and a research contribution to an LLM-related ML project.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3700&pause=1000&color=75E5DE&center=true&vCenter=true&width=760&height=48&lines=Building+reliable+Python+backends;Async+services+%7C+SQL+%7C+business+logic;Exploring+FinTech+and+machine+learning" alt="Typing animation: Python backend, asynchronous services, FinTech and ML" />
+</p>
 
-[Email](mailto:hismatullinilsat083@gmail.com) · [Telegram](https://t.me/cartero44652)
+<p align="center">
+  <a href="https://t.me/cartero44652"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-0D1827?style=for-the-badge&logo=telegram&logoColor=75E5DE" /></a>
+  <a href="mailto:hismatullinilsat083@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&logo=gmail&logoColor=BAA7FF" /></a>
+  <a href="https://github.com/MarkFontenell"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1827?style=for-the-badge&logo=github&logoColor=E6ECFA" /></a>
+</p>
 
-## Tech stack
+<br/>
 
-**Backend:** Python, asyncio, aiogram 2/3, Telegram Bot API, SQL, SQLAlchemy 2.0, SQLite  
-**Engineering:** Git, Docker, Linux, pytest, REST APIs  
-**Data & reporting:** pandas, XlsxWriter
+## <samp>01 / ABOUT ME</samp>
 
-## Selected work
+I am **Ilshat Khismatullin**, a **Python Backend Developer** and an **ITMO University student** based in Saint Petersburg.
 
-### [Portfolio X-Ray](https://github.com/MarkFontenell/portfolio-xray) — personal project
+I enjoy turning real-world workflows into maintainable systems: **asynchronous services, database-backed business logic, payments, order processing and automation**. My experience includes commercial Telegram applications and a contribution to an LLM research project.
 
-A Python project exploring investment portfolio modeling and analysis. The current foundation covers typed asset and portfolio models, input validation, portfolio valuation and asset weights, with automated tests. I'm using it to practice clean architecture and test-driven development.
+```python
+interests = ["Python backend", "FinTech", "ML / LLMs"]
+current_project = "Portfolio X-Ray"
+principle = "Build it. Test it. Make it useful."
+```
 
-`Python` `dataclasses` `pytest` · **Status:** in development
+## <samp>02 / SELECTED WORK</samp>
 
-### Territory of Tea & Coffee — commercial Telegram store
+<p align="center">
+  <a href="https://github.com/MarkFontenell/portfolio-xray"><img src="./assets/portfolio-xray.svg" alt="Portfolio X-Ray, public Python project" width="49%" /></a>
+  <a href="https://github.com/MarkFontenell/telegram-bot-online-shop"><img src="./assets/tea-coffee.svg" alt="Tea and Coffee Bot, commercial case study" width="49%" /></a>
+</p>
 
-Developed an asynchronous Telegram storefront with a product catalog, cart and order processing, stock updates, and administrative workflows. Implemented a loyalty program, anti-spam middleware, and Excel customer exports delivered through Telegram.
+<sub>**Portfolio X-Ray** has implemented domain models, portfolio valuation/allocation logic and tests. Stress testing, dashboard and AI features are still planned. **Tea & Coffee** is a commercial-project overview; the application source code is not published in this repository.</sub>
 
-`Python` `aiogram 3` `asyncio` `SQLAlchemy 2.0` `aiosqlite` `pandas` `XlsxWriter`
+<br/>
 
-### ThiPay — commercial virtual banking bot
+**ThiPay — virtual banking bot · commercial work**  
+Built account registration, balance management and peer-to-peer transfers for a Minecraft community, including validation, notifications and role-restricted administrative operations.
 
-Built a Telegram-based virtual banking service for a Minecraft community, including account registration, balance lookup, peer-to-peer transfers with validation, notifications, and role-restricted administrative operations.
+`Python` `aiogram 2` `SQLite` `FSM`
 
-`Python` `aiogram 2` `SQLite` `FSM` `Telegram Bot API`
+## <samp>03 / TOOLS & TECHNOLOGIES</samp>
 
-## Research
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,sqlite,github&theme=dark" alt="Python, Docker, Git, Linux, SQLite, GitHub" />
+</p>
 
-**ATLAS · LISA Laboratory, ITMO University (2025)**  
-Contributed to research on trigger words in large language models, including analysis of logits, attention, and hidden-layer representations, as well as feature engineering and ensemble classification. The ATLAS project was presented at the Congress of Young Scientists.
+<p align="center">
+  <img src="https://img.shields.io/badge/asyncio-0C192B?style=flat-square&logo=python&logoColor=7AE5DE" alt="asyncio" />
+  <img src="https://img.shields.io/badge/aiogram-0C192B?style=flat-square&logo=telegram&logoColor=7AE5DE" alt="aiogram" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0C192B?style=flat-square&logo=python&logoColor=BAA7FF" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/pytest-0C192B?style=flat-square&logo=pytest&logoColor=7AE5DE" alt="pytest" />
+  <img src="https://img.shields.io/badge/pandas-0C192B?style=flat-square&logo=pandas&logoColor=BAA7FF" alt="pandas" />
+  <img src="https://img.shields.io/badge/REST_APIs-0C192B?style=flat-square&logo=fastapi&logoColor=7AE5DE" alt="REST APIs" />
+</p>
 
-## Currently exploring
+## <samp>04 / RESEARCH</samp>
 
-- Building and testing reliable Python backend applications
-- Portfolio analytics and financial software
-- Machine learning and LLM systems
+**ATLAS · LISA Laboratory, ITMO University (2025)**
+
+Contributed to an ML research project investigating trigger words in large language models. Worked with analyses of logits, attention and hidden-layer representations, as well as feature engineering and ensemble classification. The team project was presented at the Congress of Young Scientists.
+
+## <samp>05 / GITHUB ACTIVITY</samp>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkFontenell&theme=github_dark" alt="GitHub contribution activity for MarkFontenell" width="95%" />
+</p>
 
 ---
 
-*Some commercial projects are described as case studies rather than public source-code repositories.*
+<p align="center">
+  <samp>INTERESTED IN BACKEND ENGINEERING, FINTECH AND MACHINE LEARNING</samp>
+  <br/><br/>
+  <a href="https://t.me/cartero44652">Telegram</a> &nbsp;•&nbsp;
+  <a href="mailto:hismatullinilsat083@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://github.com/MarkFontenell?tab=repositories">Repositories</a>
+</p>
