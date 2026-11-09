@@ -1,86 +1,60 @@
-<!--
-  GitHub profile of Ilshat Khismatullin.
-  Designed as a personal developer landing page.
-  Project statuses are intentionally factual.
--->
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-  <img src="./assets/hero.svg" alt="Ilshat Khismatullin — Python Backend Developer" width="100%" />
-</p>
+```text
+ilshat@github:~$ whoami
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3700&pause=1000&color=75E5DE&center=true&vCenter=true&width=760&height=48&lines=Building+reliable+Python+backends;Async+services+%7C+SQL+%7C+business+logic;Exploring+FinTech+and+machine+learning" alt="Typing animation: Python backend, asynchronous services, FinTech and ML" />
-</p>
+ilshat khismatullin
+python backend developer
+ITMO University · Saint Petersburg
 
-<p align="center">
-  <a href="https://t.me/cartero44652"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-0D1827?style=for-the-badge&logo=telegram&logoColor=75E5DE" /></a>
-  <a href="mailto:hismatullinilsat083@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&logo=gmail&logoColor=BAA7FF" /></a>
-  <a href="https://github.com/MarkFontenell"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1827?style=for-the-badge&logo=github&logoColor=E6ECFA" /></a>
-</p>
+ilshat@github:~$ interests
 
-<br/>
+backend · fintech · machine learning
 
-## <samp>01 / ABOUT ME</samp>
+ilshat@github:~$ contact
 
-I am **Ilshat Khismatullin**, a **Python Backend Developer** and an **ITMO University student** based in Saint Petersburg.
-
-I enjoy turning real-world workflows into maintainable systems: **asynchronous services, database-backed business logic, payments, order processing and automation**. My experience includes commercial Telegram applications and a contribution to an LLM research project.
-
-```python
-interests = ["Python backend", "FinTech", "ML / LLMs"]
-current_project = "Portfolio X-Ray"
-principle = "Build it. Test it. Make it useful."
+telegram: @cartero44652
 ```
 
-## <samp>02 / SELECTED WORK</samp>
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-  <a href="https://github.com/MarkFontenell/portfolio-xray"><img src="./assets/portfolio-xray.svg" alt="Portfolio X-Ray, public Python project" width="49%" /></a>
-  <a href="https://github.com/MarkFontenell/telegram-bot-online-shop"><img src="./assets/tea-coffee.svg" alt="Tea and Coffee Bot, commercial case study" width="49%" /></a>
-</p>
+```text
+             .       *        .
+      *           .
+                   _
+      .        ___| |___
+         _____| []  []  |__
+        |  _  |   __    |  |
+        | | | |  |  |   |[]|
+        |_|_|_|__|__|___|__|
+       ~  ~  ~   ~  ~  ~  ~
+```
 
-<sub>**Portfolio X-Ray** has implemented domain models, portfolio valuation/allocation logic and tests. Stress testing, dashboard and AI features are still planned. **Tea & Coffee** is a commercial-project overview; the application source code is not published in this repository.</sub>
+</td>
+</tr>
+</table>
 
-<br/>
+### hi, i'm ilshat.
 
-**ThiPay — virtual banking bot · commercial work**  
-Built account registration, balance management and peer-to-peer transfers for a Minecraft community, including validation, notifications and role-restricted administrative operations.
+I build things with **Python**, mostly on the backend. I like asynchronous systems, working with data, and turning practical ideas into software.
 
-`Python` `aiogram 2` `SQLite` `FSM`
+I'm a second-year student at **ITMO University**. Outside of backend development, I'm interested in **FinTech** and **machine learning**.
 
-## <samp>03 / TOOLS & TECHNOLOGIES</samp>
+### things i've worked on
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,sqlite,github&theme=dark" alt="Python, Docker, Git, Linux, SQLite, GitHub" />
-</p>
+- **[Portfolio X-Ray](https://github.com/MarkFontenell/portfolio-xray)** — a Python prototype for portfolio modeling. Asset models, allocation calculations and tests are implemented; stress testing and the interface are still on the roadmap.
+- **[Tea & Coffee Telegram store](https://github.com/MarkFontenell/telegram-bot-online-shop)** — commercial work on a storefront with a catalog, cart, orders, loyalty points, admin tools and Excel reports. Public case study; the application source code isn't published.
+- **ThiPay** — a virtual banking Telegram bot for a Minecraft community: accounts, balance checks, transfers and admin operations. Commercial project.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/asyncio-0C192B?style=flat-square&logo=python&logoColor=7AE5DE" alt="asyncio" />
-  <img src="https://img.shields.io/badge/aiogram-0C192B?style=flat-square&logo=telegram&logoColor=7AE5DE" alt="aiogram" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-0C192B?style=flat-square&logo=python&logoColor=BAA7FF" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/pytest-0C192B?style=flat-square&logo=pytest&logoColor=7AE5DE" alt="pytest" />
-  <img src="https://img.shields.io/badge/pandas-0C192B?style=flat-square&logo=pandas&logoColor=BAA7FF" alt="pandas" />
-  <img src="https://img.shields.io/badge/REST_APIs-0C192B?style=flat-square&logo=fastapi&logoColor=7AE5DE" alt="REST APIs" />
-</p>
+I also contributed to **ATLAS**, an LLM research project at the **LISA Laboratory (ITMO)**, working on trigger-word analysis and ML classification.
 
-## <samp>04 / RESEARCH</samp>
+### tools i use
 
-**ATLAS · LISA Laboratory, ITMO University (2025)**
+`Python` · `asyncio` · `aiogram` · `SQL` · `SQLAlchemy` · `SQLite` · `pytest` · `Docker` · `Git` · `Linux`
 
-Contributed to an ML research project investigating trigger words in large language models. Worked with analyses of logits, attention and hidden-layer representations, as well as feature engineering and ensemble classification. The team project was presented at the Congress of Young Scientists.
+### say hello
 
-## <samp>05 / GITHUB ACTIVITY</samp>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkFontenell&theme=github_dark" alt="GitHub contribution activity for MarkFontenell" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <samp>INTERESTED IN BACKEND ENGINEERING, FINTECH AND MACHINE LEARNING</samp>
-  <br/><br/>
-  <a href="https://t.me/cartero44652">Telegram</a> &nbsp;•&nbsp;
-  <a href="mailto:hismatullinilsat083@gmail.com">Email</a> &nbsp;•&nbsp;
-  <a href="https://github.com/MarkFontenell?tab=repositories">Repositories</a>
-</p>
+[telegram](https://t.me/cartero44652) · [email](mailto:hismatullinilsat083@gmail.com)
