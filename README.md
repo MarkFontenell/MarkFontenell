@@ -34,27 +34,15 @@ principle = "Build it. Test it. Make it useful."
 
 ## <samp>02 / SELECTED WORK</samp>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MarkFontenell/portfolio-xray">
-        <img src="./assets/portfolio-xray.svg" alt="Portfolio X-Ray — public Python project" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/MarkFontenell/telegram-bot-online-shop">
-        <img src="./assets/tea-coffee.svg" alt="Tea and Coffee Bot — commercial case study" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+**[Portfolio X-Ray](https://github.com/MarkFontenell/portfolio-xray)** — Python prototype for investment portfolio modeling. Implemented asset and portfolio models, valuation, allocation calculations and automated tests. Stress testing, dashboard and AI features are planned.
 
-<sub>**Portfolio X-Ray** has implemented domain models, portfolio valuation/allocation logic and tests. Stress testing, dashboard and AI features are still planned. **Tea &amp; Coffee** is a commercial-project overview; the application source code is not published in this repository.</sub>
+`Python` `dataclasses` `pytest`
 
-<br/>
+**[Tea & Coffee Telegram Store](https://github.com/MarkFontenell/telegram-bot-online-shop)** — Commercial Telegram shop with a product catalog, cart, order processing, loyalty program, administrative tools and Excel exports. Public case study; application source code is not published.
 
-**ThiPay — virtual banking bot · commercial work**  
-Built account registration, balance management and peer-to-peer transfers for a Minecraft community, including validation, notifications and role-restricted administrative operations.
+`Python` `aiogram 3` `asyncio` `SQLAlchemy 2.0` `SQLite`
+
+**ThiPay — Virtual Banking Bot** — Commercial Telegram banking bot for a Minecraft community: accounts, balance checks, validated transfers, notifications and role-restricted admin operations.
 
 `Python` `aiogram 2` `SQLite` `FSM`
 
