@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/orbit-banner.svg" alt="Ilshat Khismatullin — Python Backend Developer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=1400&amp;color=75E5DE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=74&amp;lines=Hi%2C+I%27m+Ilshat." alt="Hi, I'm Ilshat." />
 </p>
 
 <p align="center">
