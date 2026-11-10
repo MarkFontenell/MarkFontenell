@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3700&pause=1000&color=75E5DE&center=true&vCenter=true&width=760&height=48&lines=Building+reliable+Python+backends;Async+services+%7C+SQL+%7C+business+logic;Exploring+FinTech+and+machine+learning" alt="Typing animation: Python backend, asynchronous services, FinTech and ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3700&amp;pause=1000&amp;color=75E5DE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Building+reliable+Python+backends;Async+services+%7C+SQL+%7C+business+logic;Exploring+FinTech+and+machine+learning" alt="Typing animation: Python backend, asynchronous services, FinTech and ML" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/cartero44652"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-0D1827?style=for-the-badge&logo=telegram&logoColor=75E5DE" /></a>
-  <a href="mailto:hismatullinilsat083@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&logo=gmail&logoColor=BAA7FF" /></a>
-  <a href="https://github.com/MarkFontenell"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1827?style=for-the-badge&logo=github&logoColor=E6ECFA" /></a>
+  <a href="https://t.me/cartero44652"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-0D1827?style=for-the-badge&amp;logo=telegram&amp;logoColor=75E5DE" /></a>
+  <a href="mailto:hismatullinilsat083@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&amp;logo=gmail&amp;logoColor=BAA7FF" /></a>
+  <a href="https://github.com/MarkFontenell"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1827?style=for-the-badge&amp;logo=github&amp;logoColor=E6ECFA" /></a>
 </p>
 
 <br/>
@@ -34,12 +34,22 @@ principle = "Build it. Test it. Make it useful."
 
 ## <samp>02 / SELECTED WORK</samp>
 
-<p align="center">
-  <a href="https://github.com/MarkFontenell/portfolio-xray"><img src="./assets/portfolio-xray.svg" alt="Portfolio X-Ray, public Python project" width="49%" /></a>
-  <a href="https://github.com/MarkFontenell/telegram-bot-online-shop"><img src="./assets/tea-coffee.svg" alt="Tea and Coffee Bot, commercial case study" width="49%" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MarkFontenell/portfolio-xray">
+        <img src="./assets/portfolio-xray.svg" alt="Portfolio X-Ray — public Python project" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/MarkFontenell/telegram-bot-online-shop">
+        <img src="./assets/tea-coffee.svg" alt="Tea and Coffee Bot — commercial case study" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<sub>**Portfolio X-Ray** has implemented domain models, portfolio valuation/allocation logic and tests. Stress testing, dashboard and AI features are still planned. **Tea & Coffee** is a commercial-project overview; the application source code is not published in this repository.</sub>
+<sub>**Portfolio X-Ray** has implemented domain models, portfolio valuation/allocation logic and tests. Stress testing, dashboard and AI features are still planned. **Tea &amp; Coffee** is a commercial-project overview; the application source code is not published in this repository.</sub>
 
 <br/>
 
@@ -51,16 +61,16 @@ Built account registration, balance management and peer-to-peer transfers for a 
 ## <samp>03 / TOOLS & TECHNOLOGIES</samp>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,sqlite,github&theme=dark" alt="Python, Docker, Git, Linux, SQLite, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,sqlite,github&amp;theme=dark" alt="Python, Docker, Git, Linux, SQLite, GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/asyncio-0C192B?style=flat-square&logo=python&logoColor=7AE5DE" alt="asyncio" />
-  <img src="https://img.shields.io/badge/aiogram-0C192B?style=flat-square&logo=telegram&logoColor=7AE5DE" alt="aiogram" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-0C192B?style=flat-square&logo=python&logoColor=BAA7FF" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/pytest-0C192B?style=flat-square&logo=pytest&logoColor=7AE5DE" alt="pytest" />
-  <img src="https://img.shields.io/badge/pandas-0C192B?style=flat-square&logo=pandas&logoColor=BAA7FF" alt="pandas" />
-  <img src="https://img.shields.io/badge/REST_APIs-0C192B?style=flat-square&logo=fastapi&logoColor=7AE5DE" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/asyncio-0C192B?style=flat-square&amp;logo=python&amp;logoColor=7AE5DE" alt="asyncio" />
+  <img src="https://img.shields.io/badge/aiogram-0C192B?style=flat-square&amp;logo=telegram&amp;logoColor=7AE5DE" alt="aiogram" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0C192B?style=flat-square&amp;logo=python&amp;logoColor=BAA7FF" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/pytest-0C192B?style=flat-square&amp;logo=pytest&amp;logoColor=7AE5DE" alt="pytest" />
+  <img src="https://img.shields.io/badge/pandas-0C192B?style=flat-square&amp;logo=pandas&amp;logoColor=BAA7FF" alt="pandas" />
+  <img src="https://img.shields.io/badge/REST_APIs-0C192B?style=flat-square&amp;logo=fastapi&amp;logoColor=7AE5DE" alt="REST APIs" />
 </p>
 
 ## <samp>04 / RESEARCH</samp>
@@ -72,7 +82,7 @@ Contributed to an ML research project investigating trigger words in large langu
 ## <samp>05 / GITHUB ACTIVITY</samp>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkFontenell&theme=github_dark" alt="GitHub contribution activity for MarkFontenell" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkFontenell&amp;theme=github_dark" alt="GitHub contribution activity for MarkFontenell" width="95%" />
 </p>
 
 ---
