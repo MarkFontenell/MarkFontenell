@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="296" viewBox="0 0 1200 296" role="img" aria-label="Ilshat Khismatullin — Python Backend Developer">
+<defs>
+  <linearGradient id="backdrop" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#111820"/><stop offset=".72" stop-color="#111820"/><stop offset="1" stop-color="#18222A"/></linearGradient>
+  <linearGradient id="trail" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5F38D" stop-opacity=".9"/><stop offset="1" stop-color="#89BFC5" stop-opacity=".15"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="296" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+ <rect width="1200" height="296" fill="url(#backdrop)"/>
+ <path d="M0 0H1200V296H0Z" fill="none" stroke="#3A4B55" stroke-width="1.5"/>
+ <path d="M54 35h1092 M54 260h1092" stroke="#65757B" stroke-opacity=".22"/>
+ <circle cx="68" cy="53" r="4" fill="#D5F38D"/>
+ <text x="84" y="58" fill="#ABBBC1" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2">MARKFONTENELL</text>
+ <text x="58" y="151" fill="#F2F2EB" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="600" letter-spacing="-1.6">Ilshat Khismatullin</text>
+ <text x="61" y="193" fill="#B8CAD0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Python Backend Developer</text>
+ <text x="60" y="246" fill="#84999F" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing=".9">BACKEND  /  FINTECH  /  MACHINE LEARNING</text>
+ <g fill="none" stroke="#80969C" stroke-opacity=".31" stroke-width="1.1">
+   <circle cx="995" cy="148" r="103"/>
+   <circle cx="995" cy="148" r="74"/>
+   <circle cx="995" cy="148" r="45"/>
+   <path d="M856 148h278 M995 9v278" stroke-dasharray="2 8" stroke-opacity=".24"/>
+   <path d="M868 216C911 93 1064 61 1123 114" stroke="#CEDBD5" stroke-opacity=".36"/>
+ </g>
+ <g fill="none" stroke-linecap="round">
+   <path d="M904 103 A103 103 0 0 1 1088 104" stroke="url(#trail)" stroke-width="2.6"/>
+   <path d="M921 189 A74 74 0 0 0 1042 206" stroke="#D5F38D" stroke-width="2" stroke-opacity=".7"/>
+   <path d="M1032 115L1095 69" stroke="#BECFBD" stroke-opacity=".5" stroke-width="1"/>
+ </g>
+ <circle cx="1088" cy="104" r="6.4" fill="#D5F38D"/>
+ <circle cx="921" cy="189" r="4.8" fill="#D5F38D"/>
+ <circle cx="995" cy="148" r="3.5" fill="#BACAC8"/>
+ <circle cx="1095" cy="69" r="3" fill="#BACAC8"/>
+ <text x="1098" y="63" fill="#91A6A6" font-size="11" font-family="Consolas, Menlo, monospace">01</text>
+ <text x="1099" y="275" fill="#6F868E" font-size="11" font-family="Consolas, Menlo, monospace">2026 / 27</text>
+</g>
+</svg>
