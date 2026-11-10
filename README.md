@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="Ilshat Khismatullin — Python Backend Developer" width="100%" />
+  <img src="./assets/orbit-banner.svg" alt="Ilshat Khismatullin — Python Backend Developer" width="100%" />
 </p>
 
 <p align="center">
