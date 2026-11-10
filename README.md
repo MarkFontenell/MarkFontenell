@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=1400&amp;color=75E5DE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=74&amp;lines=Hi%2C+I%27m+Ilshat.&amp;repeat=false" alt="Hi, I'm Ilshat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=32&amp;duration=2500&amp;pause=1400&amp;color=75E5DE&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=74&amp;lines=Hi%2C+I%27m+Ilshat%21&amp;repeat=false" alt="Hi, I'm Ilshat!" />
 </p>
 
 <p align="center">
