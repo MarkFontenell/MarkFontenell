@@ -48,17 +48,42 @@ principle = "Build it. Test it. Make it useful."
 
 ## <samp>03 / TOOLS & TECHNOLOGIES</samp>
 
+**Python backend &amp; data** · commercial projects and personal development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,sqlite,github&amp;theme=dark" alt="Python, Docker, Git, Linux, SQLite, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,linux,pycharm&amp;theme=dark" alt="Python, SQLite, Git, GitHub, Linux, PyCharm" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/asyncio-0C192B?style=flat-square&amp;logo=python&amp;logoColor=7AE5DE" alt="asyncio" />
-  <img src="https://img.shields.io/badge/aiogram-0C192B?style=flat-square&amp;logo=telegram&amp;logoColor=7AE5DE" alt="aiogram" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-0C192B?style=flat-square&amp;logo=python&amp;logoColor=BAA7FF" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/pytest-0C192B?style=flat-square&amp;logo=pytest&amp;logoColor=7AE5DE" alt="pytest" />
-  <img src="https://img.shields.io/badge/pandas-0C192B?style=flat-square&amp;logo=pandas&amp;logoColor=BAA7FF" alt="pandas" />
-  <img src="https://img.shields.io/badge/REST_APIs-0C192B?style=flat-square&amp;logo=fastapi&amp;logoColor=7AE5DE" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/asyncio-12202F?style=flat-square&amp;logo=python&amp;logoColor=75E5DE" alt="asyncio" />
+  <img src="https://img.shields.io/badge/aiogram_2_/_3-12202F?style=flat-square&amp;logo=telegram&amp;logoColor=75E5DE" alt="aiogram 2 / 3" />
+  <img src="https://img.shields.io/badge/SQLAlchemy_2.0-12202F?style=flat-square&amp;logo=python&amp;logoColor=B7A3FA" alt="SQLAlchemy 2.0" />
+  <img src="https://img.shields.io/badge/aiosqlite-12202F?style=flat-square&amp;logo=sqlite&amp;logoColor=75E5DE" alt="aiosqlite" />
+  <img src="https://img.shields.io/badge/pytest-12202F?style=flat-square&amp;logo=pytest&amp;logoColor=75E5DE" alt="pytest" />
+  <img src="https://img.shields.io/badge/pandas-12202F?style=flat-square&amp;logo=pandas&amp;logoColor=B7A3FA" alt="pandas" />
+  <img src="https://img.shields.io/badge/XlsxWriter-12202F?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=75E5DE" alt="XlsxWriter" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-12202F?style=flat-square&amp;logo=telegram&amp;logoColor=75E5DE" alt="Telegram Bot API" />
+</p>
+
+**Infrastructure &amp; other hands-on work** · labs and Java projects
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postgres,cs,dotnet,java,gradle&amp;theme=dark" alt="Docker, PostgreSQL, C sharp, .NET, Java, Gradle" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker_Compose-12202F?style=flat-square&amp;logo=docker&amp;logoColor=75E5DE" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-12202F?style=flat-square&amp;logo=dotnet&amp;logoColor=B7A3FA" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST_APIs-12202F?style=flat-square&amp;logo=fastapi&amp;logoColor=75E5DE" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Java_17-12202F?style=flat-square&amp;logo=openjdk&amp;logoColor=75E5DE" alt="Java 17" />
+  <img src="https://img.shields.io/badge/ForgeGradle-12202F?style=flat-square&amp;logo=gradle&amp;logoColor=75E5DE" alt="ForgeGradle" />
+  <img src="https://img.shields.io/badge/Mixin-12202F?style=flat-square&amp;logoColor=75E5DE" alt="Mixin" />
+</p>
+
+**Exploring / basic familiarity**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,django&amp;theme=dark" alt="FastAPI and Django — basic familiarity" />
 </p>
 
 ## <samp>04 / RESEARCH</samp>
