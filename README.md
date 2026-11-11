@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/cartero44652"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-0D1827?style=for-the-badge&amp;logo=telegram&amp;logoColor=75E5DE" /></a>
-  <a href="mailto:hismatullinilsat083@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&amp;logo=gmail&amp;logoColor=BAA7FF" /></a>
+  <a href="mailto:markfontenelle@outlook.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-0D1827?style=for-the-badge&amp;logo=gmail&amp;logoColor=BAA7FF" /></a>
   <a href="https://github.com/MarkFontenell"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-0D1827?style=for-the-badge&amp;logo=github&amp;logoColor=E6ECFA" /></a>
 </p>
 
@@ -100,6 +100,6 @@ Contributed to an ML research project investigating trigger words in large langu
   <samp>INTERESTED IN BACKEND ENGINEERING, FINTECH AND MACHINE LEARNING</samp>
   <br/><br/>
   <a href="https://t.me/cartero44652">Telegram</a> &nbsp;•&nbsp;
-  <a href="mailto:hismatullinilsat083@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="mailto:markfontenelle@outlook.com">Email</a> &nbsp;•&nbsp;
   <a href="https://github.com/MarkFontenell?tab=repositories">Repositories</a>
 </p>
