@@ -51,7 +51,7 @@ principle = "Build it. Test it. Make it useful."
 **Python backend &amp; data** · commercial projects and personal development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,linux,pycharm&amp;theme=dark" alt="Python, SQLite, Git, GitHub, Linux, PyCharm" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,git,github,linux,pycharm&amp;theme=dark" alt="Python, FastAPI, Django, SQLite, Git, GitHub, Linux, PyCharm" />
 </p>
 
 <p align="center">
@@ -80,11 +80,7 @@ principle = "Build it. Test it. Make it useful."
   <img src="https://img.shields.io/badge/Mixin-12202F?style=flat-square&amp;logoColor=75E5DE" alt="Mixin" />
 </p>
 
-**Exploring / basic familiarity**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django&amp;theme=dark" alt="FastAPI and Django — basic familiarity" />
-</p>
+<p align="center"><sub>FastAPI and Django — basic hands-on familiarity.</sub></p>
 
 ## <samp>04 / RESEARCH</samp>
 
