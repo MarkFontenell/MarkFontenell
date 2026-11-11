@@ -38,7 +38,7 @@ principle = "Build it. Test it. Make it useful."
 
 `Python` `dataclasses` `pytest`
 
-**[Tea & Coffee Telegram Store](https://github.com/MarkFontenell/telegram-bot-online-shop)** — Commercial Telegram shop with a product catalog, cart, order processing, loyalty program, administrative tools and Excel exports. Public case study; application source code is not published.
+**[Tea & Coffee Telegram Store](https://github.com/MarkFontenell/telegram-bot-online-shop)** — Commercial Telegram shop with a product catalog, cart, order processing, loyalty program, administrative tools and Excel exports. Sanitized public source code is available; private project history, credentials and customer data are excluded.
 
 `Python` `aiogram 3` `asyncio` `SQLAlchemy 2.0` `SQLite`
 
